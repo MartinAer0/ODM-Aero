@@ -64,3 +64,5 @@ project_path: '/' # Example: '/home/user/ODMProjects'
 #pc-classify: none
 #force_gps: False
 #rectify: False
+#undistorted_image_format: jpg
+#undistorted_image_max_size: 15000
